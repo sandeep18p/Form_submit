@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+
+div{
+    background-color: #ffffff; 
+    margin: auto;
+    width: 40vw;
+    height: 20vw;
+    padding: 50px;
+    padding-top: 30px;
+    margin: auto;
+    margin-top: 10%;
+    min-width: 600px;
+    min-height: 350px;
+    border: 0.1rem solid rgb(103, 103, 103);
+    border-radius: 4px;
+   
+}
+
+.error {
+    color: rgba(255, 0, 0, 1);
+    font-size: 15px;
+  }
+  .success {
+    color:  rgba(33, 159, 53, 1);
+    color:rgba(33, 159, 53, 1);
+  }
+label{
+    display: block;
+    margin-bottom: 1px;
+}
+
+input{
+    margin-bottom: 5px;
+    width: 400px;
+    height: 25px;
+    border:  0.1rem solid black;
+}
+
+button{
+    background-color: #ffffff; 
+    color: black;
+    width: 130px;
+    height: 26px;
+    border:  0.1rem solid black;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+
